@@ -1,0 +1,29 @@
+/* add your CSS here */
+body {
+    padding-left: 20px;
+    box-shadow: 5px 5px grey; 
+    margin: 20px;     
+}
+
+p:first-of-type {
+    font-style: italic;    
+}
+
+ul > li > span {
+    font-weight: bold;
+}
+
+body, #info {
+    border: 1px solid grey;
+}
+
+#info {
+    padding-left: 20px;
+    margin: 0 20px 20px 0; 
+}
+
+img {
+    /* padding: 50px 0 50px 0; */
+    margin: 50px 0 50px 0;
+    width: 300px;    
+}
