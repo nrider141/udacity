@@ -13,6 +13,10 @@ ul > li > span {
     font-weight: bold;
 }
 
+ul {
+    list-style-type: none;
+}
+
 body, #info {
     border: 1px solid grey;
 }
